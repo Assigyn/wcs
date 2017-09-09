@@ -1,6 +1,6 @@
 <?php
 
 echo "A la Wild code school...";
-echo "On code en chaussettes !";
+echo "On code en chaussettes roses !";
 
  ?>
